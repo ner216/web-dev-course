@@ -6,7 +6,7 @@ index.html
             <a href="#platform">
             <a href="#pricing">
             <a href="#compatibility">
-        <a href="#register"> 
+            <a href="#register"> 
     <main>
         <section id="hero" class="hero-section">
             <span class="badge">
